@@ -1,0 +1,5 @@
+outs:
+- md5: bb7e8bc437685b10ae1de2622ca96ffd
+  size: 537344549
+  hash: md5
+  path: vgg16_feature_extractor.pth
